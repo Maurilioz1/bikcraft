@@ -1,7 +1,6 @@
 .introduction-bg {
-    background-color: #000000;
-    color: #ffffff;
-    box-shadow: inset 0 -120px #ffffff;
+    background-color: var(--color-black);
+    box-shadow: inset 0 -120px var(--color-white);
 }
 
 .introduction {
@@ -16,23 +15,16 @@
 
 .introduction h1 {
     margin-bottom: 32px;
-    font-size: 64px;
-    line-height: 1.125;
-    font-family: "Poppins";
-    font-weight: 600;
+    color: var(--color-white);
 }
 
 .introduction h1 span {
-    color: #ffbb00;
+    color: var(--color-primary-1);
 }
 
 .introduction p {
     margin-bottom: 20px;
-    font-size: 24px;
-    line-height: 1.5;
-    color: #b2b2b2;
-    font-family: "Roboto";
-    font-weight: 400;
+    color: var(--color-gray-5);
 }
 
 .introduction-content {
@@ -48,17 +40,12 @@
 
 @media (max-width: 1200px) {
     .introduction h1 {
-        font-size: 48px;
         margin-bottom: 24px;
-    }
-    .introduction p {
-        font-size: 18px;
     }
 }
 
 @media (max-width: 830px) {
     .introduction h1 {
-        font-size: 32px;
         margin-bottom: 16px;
     }
 }
@@ -69,9 +56,9 @@
         gap: 32px;
     }
     .introduction-bg {
-        background-color: #111111;
+        background-color: var(--color-gray-11);
         padding-top: 40px;
-        box-shadow: inset 0 -60px #ffffff;
+        box-shadow: inset 0 -60px var(--color-white);
     }
     .introduction-content {
         padding-bottom: 0;
