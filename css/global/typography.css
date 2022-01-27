@@ -39,7 +39,7 @@
 }
 
 .font-poppins-xxl {
-    font-size: 2rem;
+    font-size: 3rem;
     line-height: 1.25;
     font-family: "Poppins", sans-serif;
     font-weight: 600;
@@ -89,7 +89,7 @@
 
 @media (max-width: 1200px) {
     .font-poppins-xxl {
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .font-roboto-l,
     .font-roboto-l-b {
