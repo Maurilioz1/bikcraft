@@ -35,6 +35,14 @@
     color: var(--color-white);
 }
 
+.color-primary-5 {
+    color: var(--color-primary-5);
+}
+
+.color-primary-4 {
+    color: var(--color-primary-4);
+}
+
 .color-primary-1 {
     color: var(--color-primary-1);
 }
