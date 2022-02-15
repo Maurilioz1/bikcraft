@@ -2,6 +2,7 @@
 @import "./global/typography.css";
 @import "./global/colors.css";
 @import "./global/header.css";
+@import "./global/footer.css";
 
 /* Utils */
 
@@ -14,3 +15,4 @@
 @import "./home/technology.css";
 @import "./home/partners.css";
 @import "./home/testimonial.css";
+@import "./home/insurance.css";

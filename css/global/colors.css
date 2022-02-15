@@ -27,6 +27,10 @@
     color: var(--color-gray-8);
 }
 
+.color-gray-6 {
+    color: var(--color-gray-6);
+}
+
 .color-gray-5 {
     color: var(--color-gray-5);
 }

@@ -17,10 +17,20 @@
     line-height: 1.35;
     font-family: "Poppins";
     font-weight: 600;
+    max-width: max-content;
 }
 
 .button:hover {
     background: linear-gradient(var(--color-primary-2), var(--color-primary-3));
+}
+
+.button.secondary {
+    background: var(--color-gray-10);
+    color: var(--color-gray-2);
+}
+
+.button.secondary:hover {
+    background: var(--color-gray-9);
 }
 
 @media (max-width: 600px) {
