@@ -52,7 +52,7 @@
         max-height: 200px;
     }
     .testimonial-content {
-        padding: 40px 20px;
+        margin: 40px 20px;
         justify-self: center;
     }
 }
