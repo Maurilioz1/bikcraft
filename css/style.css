@@ -20,3 +20,7 @@
 /* Terms */
 
 @import "./terms/terms.css";
+
+/* Bicycles */
+
+@import "./bicycles/bicycles.css";
