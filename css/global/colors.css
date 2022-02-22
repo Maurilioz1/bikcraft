@@ -39,6 +39,10 @@
     color: var(--color-gray-5);
 }
 
+.color-gray-4 {
+    color: var(--color-gray-4);
+}
+
 .color-white {
     color: var(--color-white);
 }
