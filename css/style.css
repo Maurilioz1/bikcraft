@@ -38,3 +38,7 @@
 @import "./insurance/insurance.css";
 @import "./insurance/benefits.css";
 @import "./insurance/questions.css";
+
+/* Budget */
+
+@import "./budget/budget.css";
