@@ -88,6 +88,10 @@
 
 /* Titulo de páginas internas */
 
+.title {
+    background: url("../../img/dec/top-right.svg") no-repeat top right 20px;
+}
+
 .title-bg {
     padding-top: 60px;
     padding-bottom: 60px;
